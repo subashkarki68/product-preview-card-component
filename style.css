@@ -96,6 +96,7 @@ body {
     background-color: var(--dark-cyan);
     border-style: none;
     border-radius: 0.5em;
+    cursor: pointer;
 }
 
 .button-pd img {
